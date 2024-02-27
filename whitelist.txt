@@ -124,6 +124,10 @@
 @@||www.xboxlive.com 
 @@||v10.vortex-win.data.microsoft.com 
 @@||settings-win.data.microsoft.com
+@@||catalog.gamepass.com^
+@@||go.microsoft.com^
+@@||dmd.metaservices.microsoft.com^
+
 
 !Apple
 
@@ -279,6 +283,11 @@
 @@||placehold.it 
 @@||placeholdit.imgix.net
 
+!iDrive (A Dropbox Alternative)
+@@||ping-app1.idrive.com^
+@@||app.idrive.com^
+@@||idrive.com^
+
 !Dropbox
 @@||dl.dropboxusercontent.com 
 @@||ns1.dropbox.com 
@@ -352,7 +361,7 @@
 @@||reddit-uploaded-media.s3-accelerate.amazonaws.com
 @@||thumbs.redditmedia.com
 @@||redd.it
-|reddit.com
+@@||reddit.com
 @@/REGEX/[a-z]\.thumbs\.redditmedia\.com
 @@/REGEX/(\.|^)redd\.it$
 @@/REGEX/(\.|^)reddit\.com$
@@ -391,6 +400,11 @@
 @@||api.twitter.com
 @@||mobile.twitter.com
 @@||twimg.com
+
+!TikTok
+@@||tiktokcdn.com^
+@@||tiktokcdn-us.com^
+@@||mssdk-va.tiktok.com^
 
 
 !Banks
