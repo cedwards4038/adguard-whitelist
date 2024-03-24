@@ -443,3 +443,11 @@
 
 !svtplay (enable continuing where you left off)
 @@||analytics.svt.se
+
+!Parmount+
+
+@@||cbsinteractive.hb.omtrdc.net
+@@||scribe.logs.roku.com
+!really don't like allowing this one, but it's what makes paramount+ work per https://www.reddit.com/r/pihole/comments/lxnjdg/comment/imj4g8m/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+@@||pubads.g.doubleclick.net
+@@||pagead2.googlesyndication.com
