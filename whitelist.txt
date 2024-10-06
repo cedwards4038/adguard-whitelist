@@ -363,8 +363,8 @@
 @@||redd.it
 @@||reddit.com
 @@/REGEX/[a-z]\.thumbs\.redditmedia\.com
-@@/REGEX/(\.|^)redd\.it$
-@@/REGEX/(\.|^)reddit\.com$
+@@/(\.|^)redd\.it
+@@/(\.|^)reddit\.com/
 
 !Tracking Packages sent with DPD
 @@||tracking.dpd.de
