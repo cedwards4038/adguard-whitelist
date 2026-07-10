@@ -127,9 +127,10 @@
 @@||www.xboxlive.com 
 @@||v10.vortex-win.data.microsoft.com 
 @@||settings-win.data.microsoft.com
-@@||catalog.gamepass.com^
-@@||go.microsoft.com^
-@@||dmd.metaservices.microsoft.com^
+@@||catalog.gamepass.com
+@@||go.microsoft.com
+@@||dmd.metaservices.microsoft.com
+@@||vortex.data.microsoft.com
 
 
 !Apple
@@ -287,9 +288,9 @@
 @@||placeholdit.imgix.net
 
 !iDrive (A Dropbox Alternative)
-@@||ping-app1.idrive.com^
-@@||app.idrive.com^
-@@||idrive.com^
+@@||ping-app1.idrive.com
+@@||app.idrive.com
+@@||idrive.com
 
 !Dropbox
 @@||dl.dropboxusercontent.com 
@@ -406,9 +407,10 @@
 @@||twimg.com
 
 !TikTok
-@@||tiktokcdn.com^
-@@||tiktokcdn-us.com^
-@@||mssdk-va.tiktok.com^
+@@||tiktokcdn.com
+@@||tiktokcdn-us.com
+@@||mssdk-va.tiktok.com
+@@||tiktokv.us
 
 
 !Banks
